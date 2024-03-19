@@ -1,0 +1,44 @@
+/* Use a CSS selector to apply style(s) to at least one HTML tag */
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+
+/* Create at least one class, apply it to at least two elements, and style it */
+.class1 {
+    color: red;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    font-weight: bold;
+}
+
+.class2 {
+    color: orchid;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px;
+}
+
+.class3 {
+    color: orange;
+    font-family: Arial, sans-serif;
+    background-color: slategray;
+    font-weight: bold;
+}
+
+/* Create at least one id, apply it to an element, and style it. */
+#id1 {
+    color: green;
+    font-family: Arial, sans-serif;
+    background-color: navy;
+    font-style: italic;
+    padding: 20px;
+}
+
+/* Use a CSS selector to change the color of <a> when you hover the cursor over it. */
+a:hover {
+    color: greenyellow;
+}
